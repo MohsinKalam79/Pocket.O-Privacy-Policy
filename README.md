@@ -1,24 +1,38 @@
 Privacy Policy
 
-Last Updated: August 28, 2024
+Last Updated: 11/13/2024
 
-Thank you for using Pocket.O. This Privacy Policy explains that we do not collect, use, or store any personal information when you access and use our mobile application ("App").
+Thank you for using Pocket.O. This Privacy Policy explains how we handle your personal information when you access and use our mobile application ("App").
 
 Information We Collect
 
-We do not collect any personal or non-personal information from you when you use our App. This includes your name, email address, phone number, or any other identifying details.
+To support the new subscription model, we collect minimal personal information necessary for account creation and payment processing. This includes:
+
+Email Address: For account identification and login.
+Payment Information: Collected and processed securely by our payment provider, Stripe, to enable access to the content through subscription.
+Subscription Model and Payment
+
+The App offers subscription options to access premium content:
+
+Monthly Subscription: $5.99 per month
+Yearly Subscription: $35.99 per year
+All payments are processed securely by Stripe, and no sensitive payment details are stored by us.
 
 How We Use Your Information
 
-Since we do not collect any information, we do not use or process any data related to your usage of the App.
+The information we collect is used solely to:
+
+Facilitate user login and provide personalized access.
+Process payments to grant access to premium content.
+We do not use or process your data for any other purpose.
 
 Information Sharing
 
-We do not collect any personal or non-personal information, so we do not share any data with third parties.
+We do not share any personal or non-personal information with third parties, except as necessary for payment processing through Stripe.
 
 Data Retention
 
-Since we do not collect any information, we do not retain any data related to your usage of the App.
+We retain only essential data (such as email address) needed for user login and subscription management. No additional information is stored or retained.
 
 Changes to This Privacy Policy
 
